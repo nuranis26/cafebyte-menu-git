@@ -4,3 +4,8 @@ Main Menu:
 -Nasi Lemak
 -Sandwich Tuna
 -Mee Goreng
+
+Drinks Menu:
+-Iced Lemon Tea
+-Kopi O
+-Milo Ais
