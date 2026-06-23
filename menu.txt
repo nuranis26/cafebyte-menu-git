@@ -9,3 +9,7 @@ Drinks Menu:
 -Iced Lemon Tea
 -Kopi O
 -Milo Ais
+
+Dessert Menu:
+-Brownies
+-Cheese Tart
