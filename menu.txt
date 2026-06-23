@@ -1,0 +1,6 @@
+CafeByte Menu
+
+Main Menu:
+-Nasi Lemak
+-Sandwich Tuna
+-Mee Goreng
