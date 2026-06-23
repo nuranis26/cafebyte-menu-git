@@ -3,3 +3,6 @@ Price List
 Nasi Lemak: RM4.50
 Sandwich Tuna: RM5.00
 Mee Goreng: RM4.00
+
+Promotion:
+Lunch Set: Nasi Lemak + Iced Lemon Tea = RM6.50
